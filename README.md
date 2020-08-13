@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+This is the place where I opensource stuff and break things :rofl:
 
-<!--
-**dark-tet/dark-tet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning AI, Bot and ...
+- ⚡ Fun fact: I :heart: :dog:s
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **My Favorite Thing to Do**
+<!--START_SECTION:waka-->
+```text
+Python        4 hrs   ████░░░░░░░░░░░   16.67 % 
+YouTube       4 hrs   ████░░░░░░░░░░░   16.67 % 
+Anime         4 hrs   ████░░░░░░░░░░░   16.67 % 
+Minecraft     3 hrs   ███░░░░░░░░░░░░   12.50 % 
+Sleep         8 hrs   ███████░░░░░░░░   33.33 % 
+```
+<!--END_SECTION:waka-->
