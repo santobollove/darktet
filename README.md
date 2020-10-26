@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **My Favorite Thing to Do [Everyday]**
 <!--START_SECTION:waka-->
 ```text
-Python        4 hrs   ████░░░░░░░░░░░   16.67 % 
+Coding        4 hrs   ████░░░░░░░░░░░   16.67 % 
 YouTube       4 hrs   ████░░░░░░░░░░░   16.67 % 
 Anime         4 hrs   ████░░░░░░░░░░░   16.67 % 
 Minecraft     3 hrs   ███░░░░░░░░░░░░   12.50 % 
