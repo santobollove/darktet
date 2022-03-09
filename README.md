@@ -12,5 +12,4 @@ YouTube       4 hrs   ████░░░░░░░░░░░   16.67 %
 Anime         4 hrs   ████░░░░░░░░░░░   16.67 % 
 Minecraft     3 hrs   ███░░░░░░░░░░░░   12.50 % 
 Sleep         8 hrs   ███████░░░░░░░░   33.33 % 
-```  
-<img src="https://komarev.com/ghpvc/?username=darktet&color=red&style=flat-square" alt="Profile Views Counter" height="20" width="100" overflow="hidden"/>  
+```
